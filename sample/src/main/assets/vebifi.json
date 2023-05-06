@@ -1,0 +1,19 @@
+{
+  "vehicleIdentifier": "VEBiFi_V2_0003",
+  "soc": 94.0,
+  "speed": 0,
+  "driveMode": [
+    {"0": "Low Speed"},
+    {"1": "medium Speed"},
+    {"2": "high Speed"},
+    {"5": "reverse"},
+    {"8": "parking"},
+    {"9": "parking"},
+    {"9": "parking"},
+    {"10": "parking"},
+    {"21": "sidestand"},
+    {"25": "sidestand"}
+  ],
+  "packCurrent": 0.0,
+  "packVoltage": 62.3
+}
